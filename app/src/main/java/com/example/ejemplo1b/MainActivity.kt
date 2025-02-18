@@ -112,6 +112,6 @@ fun SimpleButton() {
         //your onclick code here
     }
         ) {
-        Text(text = "Calcular")
+        Text(text = "Calcular ")
     }
 }
